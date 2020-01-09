@@ -1,0 +1,26 @@
+<!Doctype html>
+<html>
+<head>
+<title>Favorite movies</title>
+</head>
+<body>
+
+
+<h1>This is the list of my favorite movies</h1>
+
+<ol>
+    <li>Hang them High</li>
+    <img src="
+    <li>Second movie</li>
+    <img src="
+    <li>Third movie</li>
+    <img src="
+    <li>Fourth movie</>
+    <img src="
+
+
+
+</body>
+</html>    
+
+
